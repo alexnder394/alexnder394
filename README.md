@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohamed Reda, an Egyptian Software Engineer.
 - 👀 Interested in web technologies, problem-solving, and making sustainable software capable of solving real-world problems.
-- 🌱 Currently learning the fundamentals of Computer Science through a 2-year degree at Cairo University, and doing a front-end bootcamp at Route Academy, in addition to a few online MOOCs.
-- 💞️ Looking to collaborate on all sorts of learning projects with like-minded, motivated Software Engineers from all over the world.
+- 🌱 Currently learning the fundamentals of Computer Science through a 2-year degree at Cairo University, in addition to several courses.
+- 💞️ Looking to collaborate on all sorts of learning projects with like-minded, motivated Software Engineers worldwide.
 - 📫 You can reach me using [LinkedIn](https://www.linkedin.com/in/mreda94/).
 
 <!---
